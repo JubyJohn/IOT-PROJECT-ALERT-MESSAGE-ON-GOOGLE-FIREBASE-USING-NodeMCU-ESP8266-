@@ -56,4 +56,4 @@ To create a Firebase project with a realtime database and show alert messages of
 ## REFERENCES
 
 <br> Google firebase project creation : https://www.javatpoint.com/iot-project-google-firebase-nodemcu
-<br> Google firebase using project : C:\Users\JUBY JOHN\Desktop\Projects\ESP8266\prjt 5 sensors_database\reports
+<br> Google firebase using project : https://github.com/JubyJohn/IOT-PROJECT-GOOGLE-FIREBASE-USING-NodeMCU-ESP8266-
